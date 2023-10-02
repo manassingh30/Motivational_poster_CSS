@@ -1,0 +1,25 @@
+#a{
+    height: 600px;
+    width: 100%;
+}
+#img{
+    border: 10px solid wheat;
+    margin-left: 100px;
+    margin-right: 200px;
+    text-align: center;
+
+
+    
+}
+#one{
+    color: goldenrod;
+    text-align: center;
+    font-size: 3rem;
+}
+#two{
+    color: goldenrod;
+    text-align: center;
+}
+*{
+background-color: black;
+}
